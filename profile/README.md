@@ -50,8 +50,6 @@ drag, drop, done. build discord bots with zero programming knowledge. we're stil
 
 ## the numbers 📈
 
-- **1K+** people making cool stuff
-- **50K+** projects that actually work  
 - **99.9%** uptime (we're pretty reliable)
 - **4** tools that don't disappoint
 

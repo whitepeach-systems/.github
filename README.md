@@ -1,2 +1,2 @@
-# .github
-our github stuff
+# whitepeach-systems/.github
+Github Config Files + Profile README
